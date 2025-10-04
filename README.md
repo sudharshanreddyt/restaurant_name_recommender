@@ -17,8 +17,8 @@ A LangChain-powered application that generates creative restaurant names and cor
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/restaurant-name-generator.git
-   cd restaurant-name-generator
+   git clone https://github.com/sudharshanreddyt/restaurant_name_recommender.git
+   cd restaurant_name_recommender
    ```
 
 2. **Create and activate virtual environment**
