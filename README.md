@@ -6,6 +6,7 @@ A LangChain-powered application that generates creative restaurant names and cor
 
 - **AI-Powered Restaurant Names**: Generates unique and fancy restaurant names based on cuisine type
 - **Automatic Menu Generation**: Creates a curated list of 10 menu items matching the restaurant concept
+- **Restaurant Descriptions**: Generates a description for the restaurant based on the restaurant name and menu items.
 
 ## Getting Started
 
@@ -49,3 +50,6 @@ A LangChain-powered application that generates creative restaurant names and cor
 ```bash
 streamlit run main.py
 ```
+
+### Example Output
+![alt text](/outputs/image.png)
